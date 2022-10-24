@@ -1,0 +1,33 @@
+body {
+    background-color:burlywood;
+}
+
+header,h1 {
+
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: left;
+}
+
+.nav-bar {
+    text-align: left;
+    margin-top: auto;
+}
+
+
+table, th, td {
+
+    background-color:bisque;
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td {
+    text-align: left;
+}
+
+footer{
+    margin-bottom: auto;
+}
